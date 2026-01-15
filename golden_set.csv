@@ -1,0 +1,6 @@
+data
+"{'question': 'Within how many days must a return request be made after delivery of the product?', 'ground_truth': 'A return request is valid only within 10 days from the date of delivery of the product.'}"
+"{'question': 'What happens if you cancel an order after it has been shipped?', 'ground_truth': 'The cancellation will be treated as a Return with all applicable fees.'}"
+"{'question': ""How many days after a refund is processed can the funds become available in the customer's account?"", 'ground_truth': 'Funds may become available 2‑10 days from the date of refund processing.'}"
+"{'question': 'If you cancel an order 9 days after placing it, what percentage of the total amount will be deducted as a cancellation charge?', 'ground_truth': 'A cancellation charge equal to 9% of the total order amount will be deducted.'}"
+"{'question': 'To which email address should a customer send a request for a refund, replacement, or return?', 'ground_truth': 'Requests should be sent to rb@thepridecircle.com (or the email ID listed on the Seller Profile).'}"
